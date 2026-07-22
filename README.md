@@ -17,8 +17,7 @@
 ---
 
 ## 💼 Professional Summary
-
-Bachelor’s of Science in Cybersecurity from University of Nebraska | Minor in Computer Science | Concentration in NSA Cyber Operations
+Signals Intelligence (SIGINT) Analyst and U.S. Air Force Veteran with TS/SCI clearance and 9+ years of operational intelligence experience supporting NSA missions. Former Airborne Arabic Linguist specializing in real-time intelligence analysis, threat identification, and time-sensitive reporting in high-stakes environments. Complemented by formal training in cybersecurity, including network defense, digital forensics, and penetration testing.
 
 ---
 
